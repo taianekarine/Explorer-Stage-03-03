@@ -49,6 +49,6 @@ https://www.figma.com/file/MXan95zI5afBdtzIxVN8So/Explorer-Stage-03-Projeto-03-(
 - Filtro nas imagens;
 - Função CSS clamp;
 
----
+--
 
 Feito com 🧡 by Taiane Karine e Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
